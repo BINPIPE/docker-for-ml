@@ -5,7 +5,7 @@ ARG SOME_ENV_VAR
 ENV SOME_ENV_VAR=${SOME_ENV_VAR}
 
 RUN pip install awscli --upgrade --user
-RUN echo 'export PATH=~/.local/bin:$PATHn' &gt;&gt; $HOME/.bashrc
+RUN echo 'export PATH=~/.local/bin:$PATH' >> $HOME/.bashrc
 
 COPY requirements.txt ./requirements.txt
 RUN pip install -r requirements.txt
