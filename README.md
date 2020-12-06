@@ -302,7 +302,7 @@ A  **vector**  is a data structure with at least two components, as opposed to a
 [deeplearning4j.org](http://deeplearning4j.org/glossary.html)
 
 
-// Source: Excerpts from blog post by Shashank Prasanna (AWS Blog) & Luigi Patruno (ML in Production Blog) // ML terminologies from multiple sources attributed above.
+// Sources: Excerpts from blog post by Prasanjit Singh (binpipe.org), Shashank Prasanna (AWS Blog) & Luigi Patruno (ML in Production Blog) + ML terminologies from multiple sources attributed above.
 ___
 :ledger: Maintainer: **[Prasanjit Singh](https://www.linkedin.com/in/prasanjit-singh)** | **www.binpipe.org**   [![BINPIPE](https://img.shields.io/badge/YouTube-red.svg)](https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A)
 ___ 
