@@ -1,4 +1,4 @@
-# MACHINE LEARNING WITH DOCKER
+# MACHINE LEARNING WITH DOCKER    |[![BINPIPE](https://img.shields.io/badge/YouTube-red.svg)](https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A)
 Demonstrations about Using Docker for Machine Learning
 
 ## Machine learning development environment: Bare necessities
