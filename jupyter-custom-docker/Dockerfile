@@ -1,5 +1,5 @@
 FROM jupyter/scipy-notebook
-MAINTAINER Prasanjit Singh // www.binpipe.org
+MAINTAINER Ashish Beerelli // www.binpipe.org
 
 ARG SOME_ENV_VAR
 ENV SOME_ENV_VAR=${SOME_ENV_VAR}
